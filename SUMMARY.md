@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [演習1. OpenShift ユーザエクスペリエンス](modules/chap-3.md)
+* [OpenShift ユーザエクスペリエンス](modules/chap-3.md)
+* [アプリケーションデプロイメント (s2i,Tekton)](modules/chap-4.md)
 
