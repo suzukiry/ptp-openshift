@@ -1,1 +1,1 @@
-# ptp-openshift
+# ptp-ocp4-foundations
